@@ -1,7 +1,7 @@
 
     #include <stdio.h>
 
-/*Olá, meu nome é Guilherme Sabino e este programa pode ser visto no seguinte endereço do github: 
+/*Olá, meu nome é Guilherme Sabino e este programa pode ser visto no seguinte endereço do github: https://github.com/GuiSampaio/git-prog1-noite-2016/blob/master/trabalhoav2.c
 
 */
 
