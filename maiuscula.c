@@ -10,7 +10,7 @@ int main()
   
   
   if( (letra>=65) && (letra<=90) )  /*Ler o Range de numeros da Tebela ASCII 
-                              que represetam as letras maiusculas*/ 
+                              que representam as letras maiusculas*/ 
   {
     printf("\nLetra Maiuscula\n");
     
