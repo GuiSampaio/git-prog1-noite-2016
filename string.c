@@ -15,9 +15,9 @@ int main()
   printf("\nQual sua nota da AV2?\n");
   scanf("%f",&av2);
   
- media = av1+av2;
+  media = av1+av2;
   
-  printf("\nOla %s sua media e %f\n", aluno, media/2);
+  printf("\nOla %s sua media e %.2f\n", aluno, media/2);
   
   
   
